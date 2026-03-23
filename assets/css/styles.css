@@ -10,7 +10,7 @@
   --text-color: #403a3a;
   --text-color-light: #707070;
   --container-color: #fafafa;
-  --container-color-alt: #f0efef;
+  --container-color-alt: #efe9e9;
   --body-color: #fcfcfc;
 
   /* Font and typography */
@@ -51,7 +51,7 @@ html {
 body.dark-theme{
   --title-color: #F2F2F2;
   --text-color: #BFBFBF;
-  --container-color: #212121;
+  --container-color: #302d2d;
   --container-color-alt: #181616;
   --body-color: #2B2B2B;
 }
